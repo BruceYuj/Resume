@@ -1,6 +1,6 @@
 # My Resume
 
-[bruceyuj.top/resume](http:bruceyuj.top/resume)
+[bruceyuj.top/resume](resume.bruceyuj.top)
 
 ## Introduction
 
